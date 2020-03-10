@@ -36,3 +36,9 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+
+ext {
+    compileSdkVersion   = 28
+    targetSdkVersion    = 28
+    buildToolsVersion   = "28.0.3"
+}

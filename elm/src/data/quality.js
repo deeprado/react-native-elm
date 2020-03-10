@@ -1,0 +1,58 @@
+export default [
+  {
+    id: 1,
+    name: '田老师红烧肉',
+    price: 232,
+    cover: 'sale0',
+    orgPirce: 29,
+  },
+  {
+    id: 2,
+    name: '必胜宅急送',
+    price: 232,
+    cover: 'sale1',
+    orgPirce: 29,
+  },
+  {
+    id: 1,
+    name: '嘉和一品',
+    price: 232,
+    cover: 'sale2',
+    orgPirce: 29,
+  },
+  {
+    id: 1,
+    name: '西贝莜面村',
+    price: 232,
+    cover: 'sale3',
+    orgPirce: 29,
+  },
+  {
+    id: 1,
+    name: '宏状元',
+    price: 232,
+    cover: 'sale3',
+    orgPirce: 29,
+  },
+  {
+    id: 1,
+    name: '汉拿山韩式石锅拌饭',
+    price: 232,
+    cover: 'sale3',
+    orgPirce: 29,
+  },
+  {
+    id: 1,
+    name: 'U鼎冒菜',
+    price: 232,
+    cover: 'sale3',
+    orgPirce: 29,
+  },
+  {
+    id: 1,
+    name: '阿香米线',
+    price: 232,
+    cover: 'sale3',
+    orgPirce: 29,
+  },
+];
